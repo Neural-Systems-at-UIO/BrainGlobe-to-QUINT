@@ -1,4 +1,4 @@
-# BrainGlobe support
+# BrainGlobe to QUINT
 
 Python converters for using atlases from https://brainglobe.info with NeSys utilities (actual list of atlases is [here](https://brainglobe.info/documentation/brainglobe-atlasapi/usage/atlas-details.html)). For QuickNII and VisuAlign so far. Partially Nutil (NIfTI and label files are generated).
 
